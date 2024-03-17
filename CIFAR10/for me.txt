@@ -1,0 +1,2 @@
+Accuracy of this model is ~43%.
+I have to replace layers and their parameters to increase one.
